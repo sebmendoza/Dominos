@@ -1,4 +1,4 @@
-# Name; get_me_pizza
+# Name; get_me_pizza.py
 # Date: Sept. 11, 2021
 # Author: Sebastian Mendoza
 # Description: This script will order me pizza.
